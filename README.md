@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and PHP**
 
-- 👨‍💻 All of my projects are available at [https://34248.hosts1.ma-cloud.nl/Wordpress/](https://34248.hosts1.ma-cloud.nl/Wordpress/)
+- 👨‍💻 All of my projects are available at [https://34248.hosts1.ma-cloud.nl/Wordpress/](my portfolio)
 
 - 📫 How to reach me **34248@ma-web.nl**
 
