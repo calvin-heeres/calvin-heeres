@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and PHP**
 
-- 👨‍💻 All of my projects are available at [....](....)
+- 👨‍💻 All of my projects are available at [https://???.com](https://???.com)
 
 - 📫 How to reach me **34248@ma-web.nl**
 
